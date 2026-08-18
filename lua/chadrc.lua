@@ -6,8 +6,8 @@
 local M = {}
 
 M.base46 = {
-	theme = "onedark",
-
+	theme = "tokyodark",
+	transparency = true,    -- Makes background highlight groups transparent
 	-- hl_override = {
 	-- 	Comment = { italic = true },
 	-- 	["@comment"] = { italic = true },
